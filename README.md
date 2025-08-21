@@ -62,3 +62,7 @@ El trabajo se basa en la base de datos **Base_de_Datos_NASA.csv**, que contiene 
 - statsmodels  
 - matplotlib  
 - seaborn
+
+- [Reporte en ipynb](Regresion_M.ipynb)
+- [Reporte en html](Regresion_M.html)
+- [Base de datos](Base_de_Datos_NASA.csv)
